@@ -28,7 +28,7 @@ Atuamos em quatro frentes integradas, utilizando metodologias ágeis e visão si
 | :--- | :--- |
 | **🎨 Arte & Cultura** | Produção musical e visual inspirada na **Consciência Divina**, em **Arquétipos Maias** e ancestralidade. <br> *Tech:* Distribuição digital, metadados de áudio e preservação cultural digital. |
 | **📚 Educação (EdTech)** | Desenvolvimento de soluções para ensino de idiomas e didática inclusiva. <br> *Tech:* Plataformas LMS, Acessibilidade Web (WCAG) e Gamificação. |
-| **heart Arteterapia** | Pesquisa e aplicação da arte como ferramenta de saúde mental e autoconhecimento. <br> *Tech:* Análise de dados qualitativos e ferramentas de biofeedback. |
+| **💓 Arteterapia** | Pesquisa e aplicação da arte como ferramenta de saúde mental e autoconhecimento. <br> *Tech:* Análise de dados qualitativos e ferramentas de biofeedback. |
 | **🌱 Sustentabilidade** | Projetos focados em regeneração social e consciência ecológica. <br> *Tech:* Green Coding (otimização para menor consumo de energia) e Gestão Pública Digital. |
 
 ---
@@ -37,7 +37,7 @@ Atuamos em quatro frentes integradas, utilizando metodologias ágeis e visão si
 
 #### 🎵 Projeto Musical: "Zelo no Belo"
 *Lançamento previsto: Dezembro/2025*
-Repositório de assets, letras (Markdown) e documentação conceitual do álbum autoral que explora a jornada do herói através da World Music.
+Repositório de assets, letras (Markdown) e documentação conceitual do álbum autoral que explora a jornada da maestria através da World Music.
 
 #### 🌐 Plataforma ELOnARTE Web
 Desenvolvimento do ecossistema digital da marca, focado em performance e acessibilidade.
@@ -59,5 +59,5 @@ Acreditamos na cultura **Open Source**. Desenvolvedores, músicos, terapeutas e 
 ---
 
 <div align="center">
-Developed with 💜 and ☕ by the ELOnARTE Team.
+Desenvolvido com 💜 e ☕ pela equipe ELOnARTE.
 </div>
