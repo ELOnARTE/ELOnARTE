@@ -41,8 +41,8 @@ Repositório de assets, letras (Markdown) e documentação conceitual do álbum 
 
 #### 🌐 Plataforma ELOnARTE Web
 Desenvolvimento do ecossistema digital da marca, focado em performance e acessibilidade.
-* **Stack:** WordPress, WooCommerce, Astro.Build.
-* **Hospedagem:** Hostinger / Cloudflare.
+* **Stack:** Astro.Build, WordPress, WooCommerce...
+* **Hospedagem:** Cloudflare, Hostinger...
 
 #### 🧠 Núcleo de Pesquisa
 Estudos sobre a integração entre **Neurociências** e **Processos Criativos**. Documentação e artigos abertos sobre como a tecnologia pode auxiliar na Arteterapia.
