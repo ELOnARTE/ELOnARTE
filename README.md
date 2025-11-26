@@ -27,7 +27,7 @@ Atuamos em quatro frentes integradas, utilizando metodologias ágeis e visão si
 | Pilar | Descrição & Foco Tecnológico |
 | :--- | :--- |
 | **🎨 Arte & Cultura** | Produção musical e visual inspirada na **Consciência Divina**, em **Arquétipos Maias** e ancestralidade. <br> *Tech:* Distribuição digital, metadados de áudio e preservação cultural digital. |
-| **📚 Educação (EdTech)** | Desenvolvimento de soluções para ensino de idiomas e didática inclusiva. <br> *Tech:* Plataformas LMS, Acessibilidade Web (WCAG) e Gamificação. |
+| **📚 Educação (EdTech)** | Desenvolvimento de soluções para ensino de linguagens e didática inclusiva. <br> *Tech:* Plataformas LMS, Acessibilidade Web (WCAG) e Gamificação. |
 | **💓 Arteterapia** | Pesquisa e aplicação da arte como ferramenta de saúde mental e autoconhecimento. <br> *Tech:* Análise de dados qualitativos e ferramentas de biofeedback. |
 | **🌱 Sustentabilidade** | Projetos focados em regeneração social e consciência ecológica. <br> *Tech:* Green Coding (otimização para menor consumo de energia) e Gestão Pública Digital. |
 
