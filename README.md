@@ -1,7 +1,7 @@
 <div align="center">
 
 # ELOnARTE
-### Elo na Arte Inspirada
+### O Elegante Elo na Arte Inspirada
 
 > *"Conectando Tecnologia, Arte, Terapia e Espiritualidade para o Desenvolvimento Humano Sustentável."*
 
