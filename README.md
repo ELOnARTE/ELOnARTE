@@ -14,7 +14,7 @@
 
 ### 🌟 Sobre Nós
 
-A **ELOnARTE** é um laboratório criativo e educacional. Somos uma organização focada na intersecção entre a sensibilidade humana e a inovação tecnológica. Acreditamos que o código (Open Source) e a arte são linguagens universais capazes de promover cura, educação e consciência social.
+A **ELOnARTE** é um laboratório criativo e educacional. Somos uma organização focada na intersecção entre a sensibilidade humana e a inovação tecnológica. Acreditamos que o código (Open Source) e a arte são linguagens universais capazes de promover cura, educação e consciência social. Fundada por Leonarte da Fonte (@eonarte).
 
 Nosso GitHub é o repositório central de nossas tecnologias educacionais, dados abertos de pesquisa em arteterapia e desenvolvimento web sustentável.
 
